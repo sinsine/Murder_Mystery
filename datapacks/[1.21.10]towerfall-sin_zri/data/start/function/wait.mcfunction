@@ -1,0 +1,1 @@
+schedule function start:main 1s replace

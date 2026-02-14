@@ -1,0 +1,7 @@
+{
+  "values": [
+    "prepare:tick",
+    "prepare:sound",
+    "game:tick"
+  ]
+}
