@@ -1,0 +1,15 @@
+{
+  "port": 25565,
+  "allow-host-cheat": true,
+  "max-players": 8,
+  "gamemode": "survival",
+  "motd": "sin_zri - Towerfall",
+  "allow-everyone-cheat": false,
+  "enforce-whitelist": false,
+  "enable-upnp": true,
+  "online-mode": false,
+  "enable-uuid-fixer": false,
+  "pvp": true,
+  "get-public-ip": true,
+  "remove-player-reporting": false
+}
